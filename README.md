@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @turepranav2
 - 👀 I’m interested in Data Trading, Developing Softwares, Music(Background Music) etc
-- 🌱 I’m currently learning in Second Year - Artificial Intelligence and Data Science.
+- 🌱 I’m currently learning in Third Year - Artificial Intelligence and Data Science.
 - 💞️ I’m looking to collaborate on Software Projects.
 - 📫 How to reach me: through my Gmail -> turepranav2@gmail.com
 - 😄 Pronouns: he/him.
