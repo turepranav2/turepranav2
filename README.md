@@ -31,19 +31,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
----
-
-📊 **GitHub Insights**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavture&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavture&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavture&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
+ 
 
 📈 **Contribution Graph**  
 <p align="center">
